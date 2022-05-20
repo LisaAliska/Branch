@@ -1,2 +1,14 @@
 1) iPhone 11
 2) iPhone 12
+3) Xiaomi
+git commit -am "add Xaomi"
+
+[D[D[D[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[A[C[C[C[C[C[C[C[C[[3~[C[3[C[C[i
+git commit -am "add Xiaomi"[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Di p20
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[[A[A[B[D[D[D[3~[3~[C[C[C[C[C[C[3~[3[3~[3~[D[D[D[D[D[D[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[C[C[C[C[C[C[C[C[C[C[C[C[B[3[3~[C[C[C[C[C[C[C[C[C[C[C[C[C[3~[3[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[A[A[Cne.txt
+[A[C[C[C[C[C[C[C[C[Ces.txt
+3) Xiaomi p20
+
+git commit -am "add Xiaomi"
+[A[3~[3~[3~[3~[3~[3~[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[3cgit status
