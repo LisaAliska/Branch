@@ -1,0 +1,6 @@
+id:100500
+Title:Ne rabotayyyyet!
+Description:Nichego ne rabotayet!
+STR:ya chto-to nazhala i ono samo!!!
+FR:ne rabotayet
+ER:rabotayet
